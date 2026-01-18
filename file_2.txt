@@ -1,3 +1,0 @@
-Jenkins is a automation server used for continous integration and continous development.
-
-Jenkins is super easy
